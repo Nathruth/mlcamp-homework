@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10-kubernetes/machine-learning-zoomcamp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/midterm-project" vcs="Git" />
   </component>
 </project>
